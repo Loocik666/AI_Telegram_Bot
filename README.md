@@ -5,7 +5,7 @@
 ![DeepSeek](https://img.shields.io/badge/AI-DeepSeek--R1-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Non--Commercial-red?style=for-the-badge)
 
-Интеллектуальный Telegram-бот на базе нейросети **DeepSeek-R1**, работающий локально (через Ollama). Проект включает готовую систему монетизации через **Telegram Stars**, учет пользователей в базе данных и защиту от коммерческого копирования.
+Интеллектуальный Telegram-бот на базе нейросети **DeepSeek-R1**, работающий локально (через Ollama). Проект включает готовую систему монетизации через **Telegram Stars**, учет пользователей в базе данных.
 
 ---
 
